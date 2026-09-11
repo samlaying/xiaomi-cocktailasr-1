@@ -209,7 +209,7 @@ Produces `out/result.txt` (hypotheses) and `out/text` (references) in the same d
 
 | Reference speech | Audio to recognize |
 |:---:|:---:|
-| ![ref-1547-1](demo/ref-1547-1.mp4) | ![1552-1](demo/1552-1.mp4) |
+| https://github.com/user-attachments/assets/da84e4ea-5a9e-4393-b830-bc43b53bf72c  | https://github.com/user-attachments/assets/67a55411-d5bc-4f09-bdee-0af36d3c4ef5 |
 
 **Recognition result**: 人们设计AI配方的过程本质上主要还是一个不断试错的过程
 
@@ -217,7 +217,7 @@ Produces `out/result.txt` (hypotheses) and `out/text` (references) in the same d
 
 | Reference speech | Audio to recognize |
 |:---:|:---:|
-| ![neg-ref](demo/neg-ref.mp4) | ![neg-asr](demo/neg-asr.mp4) |
+| https://github.com/user-attachments/assets/89fcd03c-ffb0-4568-a4f6-a7876c9dba38 | https://github.com/user-attachments/assets/4fa981d4-17ea-49ca-8168-447b7b7483cc |
 
 **Recognition result**: [empty]
 
