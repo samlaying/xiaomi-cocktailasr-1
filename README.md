@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/bbb41d00-cfcf-4b64-ad81-2a15a0526208
+
 # **Xiaomi-CocktailASR-1—— 目标说话人语音识别模型**
 
 中文 | [English](README_en.md)
@@ -209,7 +213,7 @@ CUDA_VISIBLE_DEVICES=0 python tools/test_batch_scp.py \
 
 | 参考语音 | 待识别语音 |
 |:---:|:---:|
-| ![ref-1547-1](demo/ref-1547-1.mp4) | ![1552-1](demo/1552-1.mp4) |
+| https://github.com/user-attachments/assets/da84e4ea-5a9e-4393-b830-bc43b53bf72c  | https://github.com/user-attachments/assets/67a55411-d5bc-4f09-bdee-0af36d3c4ef5 |
 
 **识别结果**：人们设计AI配方的过程本质上主要还是一个不断试错的过程
 
@@ -217,7 +221,7 @@ CUDA_VISIBLE_DEVICES=0 python tools/test_batch_scp.py \
 
 | 参考语音 | 待识别语音 |
 |:---:|:---:|
-| ![neg-ref](demo/neg-ref.mp4) | ![neg-asr](demo/neg-asr.mp4) |
+| https://github.com/user-attachments/assets/89fcd03c-ffb0-4568-a4f6-a7876c9dba38 | https://github.com/user-attachments/assets/4fa981d4-17ea-49ca-8168-447b7b7483cc |
 
 **识别结果**：【空】
 
