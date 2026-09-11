@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/bbb41d00-cfcf-4b64-ad81-2a15a0526208
-
 # **Xiaomi-CocktailASR-1—— 目标说话人语音识别模型**
 
 中文 | [English](README_en.md)
